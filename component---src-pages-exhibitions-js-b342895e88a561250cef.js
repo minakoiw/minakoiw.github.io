@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[919],{1316:function(e,t,n){n.r(t);var l=n(7294),u=n(151);t.default=function(){return l.createElement(u.Z,null,l.createElement("h1",null,"Exhibitions"))}}}]);
-//# sourceMappingURL=component---src-pages-exhibitions-js-b342895e88a561250cef.js.map
