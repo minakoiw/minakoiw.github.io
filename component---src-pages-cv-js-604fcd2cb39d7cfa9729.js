@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[576],{8150:function(e,t,u){u.r(t);var l=u(7294),n=u(9841);t.default=function(){return l.createElement(n.Z,null,l.createElement("h1",null,"Curriculum Vitae"))}}}]);
-//# sourceMappingURL=component---src-pages-cv-js-604fcd2cb39d7cfa9729.js.map
